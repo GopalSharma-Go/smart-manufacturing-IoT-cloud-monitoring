@@ -1,1 +1,0 @@
-# smart-manufacturing-IoT-cloud-monitoring
