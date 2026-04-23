@@ -1,6 +1,7 @@
 import streamlit as st
-import kagglehub
-from kagglehub import KaggleDatasetAdapter
+import pandas as pd
+
+df = pd.read_csv("smart_manufacturing_data.csv")
 import pandas as pd
 import numpy as np
 import pickle
